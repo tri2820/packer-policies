@@ -8,32 +8,35 @@ Packer is a social network app that uses AI to analyze news stories and present 
 
 Packer collects the following data from its users:
 
-User profile information such as name, username, and email address
-User activity data such as posts, comments, and likes
-Device information such as device type, operating system, and browser type
-Usage data such as session duration, clickstream data, and in-app behavior
-Location data, with user permission, for personalized news and content
-How We Collect Data:
+- User profile information such as name, username, and email address
+- User activity data such as posts, comments, and likes
+- Device information such as device type, operating system, and browser type
+- Usage data such as session duration, clickstream data, and in-app behavior
+- Location data, with user permission, for personalized news and content
 
-## We collect user data in the following ways:
+## How We Collect Data:
 
-When a user creates an account and provides their personal information
-When a user interacts with the app by posting, commenting, or liking
-Through cookies and similar technologies that track user behavior and preferences
-Through analytics tools, advertising networks, and third-party SDKs
-How We Use Data:
+We collect user data in the following ways:
 
-## We use the data we collect in the following ways:
+- When a user creates an account and provides their personal information
+- When a user interacts with the app by posting, commenting, or liking
+- Through cookies and similar technologies that track user behavior and preferences
+- Through analytics tools
 
-To personalize news and content based on user preferences and behavior
-To improve our services and develop new features
-To communicate with users about updates and promotions
-To comply with legal obligations and protect our rights
-Data Sharing:
+## How We Use Data:
+
+We use the data we collect in the following ways:
+
+- To personalize news and content based on user preferences and behavior
+- To improve our services and develop new features
+- To communicate with users about updates and promotions
+- To comply with legal obligations and protect our rights
+
+## Data Sharing:
 
 Packer may share user data with third-party service providers for analytics, advertising, and other purposes. We require these providers to provide the same or equal protection of user data as stated in this privacy policy and in compliance with these guidelines.
 
-Data Retention and Deletion:
+## Data Retention and Deletion:
 
 Packer retains user data as long as it is necessary to provide our services or as required by law. Users may request the deletion of their data by contacting us at hipacker@protonmail.com. We will respond to requests for data deletion within a reasonable timeframe.
 
